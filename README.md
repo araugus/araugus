@@ -1,4 +1,6 @@
-### Hi there 👋
+### Oie!
+        Meu nome é Gustavo, estou estudando modelos de Machine Learning 🤖 e temas gerais de Data Science em Python 🐍.
+       
 
 <!--
 **araugus/araugus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
