@@ -1,5 +1,5 @@
-### Oie!
-        Meu nome é Gustavo, estou estudando modelos de Machine Learning 🤖 e temas gerais de Data Science em Python 🐍.
+### Oie, meu nome é Gustavo,
+        estou estudando modelos de Machine Learning 🤖 e temas gerais de Data Science em Python 🐍.
        
 
 <!--
