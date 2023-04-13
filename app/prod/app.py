@@ -14,6 +14,10 @@ class Application(tk.Frame):
         self.entradas = []
         colunas = ["listado1", "listado2", "listado3", "listado4", "listado5", "nome_lista"]
         
+        #adicionando logo a aplicacao
+        logo = tk.PhotoImage(file='app\prod\logo-banco-safra-256.png')
+        logo_label = tk.Label(self, image=logo)
+        logo_label.pack(side='top')
         for i in range(5):
             self.lista_colunas.append(tk.Label(self, text=colunas[i]))
             self.lista_colunas[i].pack(side="top")
