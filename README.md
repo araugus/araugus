@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Gustavo</h1>
-<h3 align="center">A Data Analyst looking for new challenges for develop my programming skills</h3>
+<h3 align="center">A Data Scientist looking for new challenges for develop my programming skills</h3>
 
 - 🔭 I’m currently working on **Safra Bank**
 
