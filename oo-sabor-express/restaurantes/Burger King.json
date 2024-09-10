@@ -1,0 +1,952 @@
+[
+    {
+        "item": "Whopper\u00ae Sandwich",
+        "preco": 46.35,
+        "descricao": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "item": "Whopper\u00ae Sandwich with Cheese",
+        "preco": 37.47,
+        "descricao": "Uma op\u00e7\u00e3o saud\u00e1vel e satisfat\u00f3ria."
+    },
+    {
+        "item": "Bacon & Cheese Whopper\u00ae Sandwich",
+        "preco": 49.44,
+        "descricao": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "item": "Double Whopper\u00ae Sandwich",
+        "preco": 57.83,
+        "descricao": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "item": "Double Whopper\u00ae Sandwich with Cheese",
+        "preco": 37.02,
+        "descricao": "A escolha ideal para ocasi\u00f5es especiais."
+    },
+    {
+        "item": "Triple Whopper\u00ae Sandwich",
+        "preco": 55.49,
+        "descricao": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "item": "Triple Whopper\u00ae Sandwich with Cheese",
+        "preco": 49.59,
+        "descricao": "Para os amantes de bebidas geladas."
+    },
+    {
+        "item": "Whopper JR.\u00ae Sandwich",
+        "preco": 38.31,
+        "descricao": "Uma op\u00e7\u00e3o deliciosa e satisfat\u00f3ria."
+    },
+    {
+        "item": "Bacon King Sandwich",
+        "preco": 54.55,
+        "descricao": "Para os amantes de bebidas geladas."
+    },
+    {
+        "item": "Cheddar Bacon King Sandwich",
+        "preco": 38.25,
+        "descricao": "A escolha ideal para ocasi\u00f5es especiais."
+    },
+    {
+        "item": "Single Quarter Pound King Sandwich",
+        "preco": 45.5,
+        "descricao": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "item": "Double Quarter Pound King Sandwich",
+        "preco": 49.21,
+        "descricao": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "item": "Single Stacker King",
+        "preco": 33.35,
+        "descricao": "Uma bebida gelada e revigorante."
+    },
+    {
+        "item": "Double Stacker King",
+        "preco": 40.17,
+        "descricao": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "item": "IMPOSSIBLE Whopper\u00ae Sandwich",
+        "preco": 33.04,
+        "descricao": "Incrivelmente saboroso e satisfat\u00f3rio."
+    },
+    {
+        "item": "Hamburger",
+        "preco": 43.63,
+        "descricao": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "item": "Cheeseburger",
+        "preco": 51.52,
+        "descricao": "O acompanhamento perfeito para qualquer refei\u00e7\u00e3o."
+    },
+    {
+        "item": "Double Hamburger",
+        "preco": 37.16,
+        "descricao": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "item": "Double Cheeseburger",
+        "preco": 39.28,
+        "descricao": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "item": "Extra Long Cheeseburger",
+        "preco": 50.74,
+        "descricao": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "item": "Bacon Cheeseburger",
+        "preco": 30.69,
+        "descricao": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "item": "Bacon Double Cheeseburger",
+        "preco": 57.89,
+        "descricao": "Leve e delicioso, \u00f3timo para compartilhar."
+    },
+    {
+        "item": "Crispy Chicken Sandwich",
+        "preco": 50.48,
+        "descricao": "A escolha ideal para ocasi\u00f5es especiais."
+    },
+    {
+        "item": "Spicy Crispy Chicken Sandwich",
+        "preco": 47.0,
+        "descricao": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "item": "Original Chicken Sandwich",
+        "preco": 34.25,
+        "descricao": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "item": "Bacon & Cheese Crispy Chicken Sandwich",
+        "preco": 43.17,
+        "descricao": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "item": "BBQ Bacon Crispy Chicken Sandwich",
+        "preco": 38.84,
+        "descricao": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "item": "Crispy Chicken Jr.",
+        "preco": 58.88,
+        "descricao": "Uma op\u00e7\u00e3o refrescante e saud\u00e1vel."
+    },
+    {
+        "item": "Spicy Crispy Chicken Jr.",
+        "preco": 39.05,
+        "descricao": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "item": "Chicken Nuggets- 4pc",
+        "preco": 50.5,
+        "descricao": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "item": "Chicken Nuggets- 6pc",
+        "preco": 31.34,
+        "descricao": "Para os amantes de caf\u00e9 e cappuccinos."
+    },
+    {
+        "item": "Chicken Nuggets- 10pc",
+        "preco": 49.86,
+        "descricao": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "item": "Chicken Nuggets- 20pc",
+        "preco": 59.01,
+        "descricao": "Sabor aut\u00eantico que aquece o cora\u00e7\u00e3o."
+    },
+    {
+        "item": "Spicy Chicken Nuggets- 4pc",
+        "preco": 32.9,
+        "descricao": "Sinta o sabor da tradi\u00e7\u00e3o em cada mordida."
+    },
+    {
+        "item": "Spicy Chicken Nuggets- 6pc",
+        "preco": 57.68,
+        "descricao": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "item": "Spicy Chicken Nuggets- 10 pc",
+        "preco": 52.95,
+        "descricao": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "item": "Spicy Chicken Nuggets- 20 pc",
+        "preco": 41.89,
+        "descricao": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "item": "Chicken Fries \u2013 9 pc.",
+        "preco": 50.41,
+        "descricao": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "item": "Crispy Taco",
+        "preco": 35.97,
+        "descricao": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "item": "BIG FISH Sandwich",
+        "preco": 30.88,
+        "descricao": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "item": "Garden Chicken Salad with Crispy Chicken \u2013 no dressing",
+        "preco": 53.55,
+        "descricao": "Leve e saboroso, perfeito a qualquer hora."
+    },
+    {
+        "item": "Club Salad with Crispy Chicken \u2013 no dressing",
+        "preco": 46.0,
+        "descricao": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "item": "Garden Side Salad \u2013 w/o dressing",
+        "preco": 48.29,
+        "descricao": "Uma op\u00e7\u00e3o deliciosa e satisfat\u00f3ria."
+    },
+    {
+        "item": "Ken\u2019s Ranch Dressing",
+        "preco": 57.99,
+        "descricao": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "item": "Ken\u2019s Golden Italian Dressing",
+        "preco": 58.55,
+        "descricao": "A escolha saud\u00e1vel para um dia agitado."
+    },
+    {
+        "item": "Ken\u2019s Lite Honey Balsamic Vinaigrette",
+        "preco": 32.54,
+        "descricao": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "item": "Buttery Garlic Croutons- Packet",
+        "preco": 57.36,
+        "descricao": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "item": "Onion Rings \u2013 value",
+        "preco": 50.53,
+        "descricao": "A escolha saud\u00e1vel para um dia agitado."
+    },
+    {
+        "item": "Onion Rings \u2013 small",
+        "preco": 38.71,
+        "descricao": "Sabor ex\u00f3tico que voc\u00ea vai adorar."
+    },
+    {
+        "item": "Onion Rings \u2013 medium",
+        "preco": 47.99,
+        "descricao": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "item": "Onion Rings \u2013 large",
+        "preco": 39.69,
+        "descricao": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "item": "French Fries \u2013 value (unsalted)",
+        "preco": 32.81,
+        "descricao": "O acompanhamento perfeito para qualquer refei\u00e7\u00e3o."
+    },
+    {
+        "item": "French Fries \u2013 small",
+        "preco": 42.89,
+        "descricao": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "item": "French Fries \u2013 medium",
+        "preco": 33.67,
+        "descricao": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "item": "French Fries \u2013 large",
+        "preco": 43.19,
+        "descricao": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "item": "Kids Oatmeal",
+        "preco": 55.37,
+        "descricao": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "item": "Chicken Nuggets- 4pc",
+        "preco": 44.23,
+        "descricao": "A escolha ideal para ocasi\u00f5es especiais."
+    },
+    {
+        "item": "Chicken Nuggets- 6pc",
+        "preco": 56.43,
+        "descricao": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "item": "Hamburger",
+        "preco": 48.0,
+        "descricao": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "item": "Cheeseburger",
+        "preco": 38.26,
+        "descricao": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "item": "Mott\u2019s\u00ae Natural Applesauce",
+        "preco": 51.81,
+        "descricao": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "item": "Fat FREE Milk (8 fl oz)",
+        "preco": 32.39,
+        "descricao": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "item": "1% Low Fat Chocolate Milk (8 fl oz)",
+        "preco": 47.15,
+        "descricao": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "item": "Capri Sun\u00ae 100% Apple Juice (6 fl oz)",
+        "preco": 56.52,
+        "descricao": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "item": "PB&J Jamwich",
+        "preco": 45.81,
+        "descricao": "Incrivelmente saboroso e satisfat\u00f3rio."
+    },
+    {
+        "item": "Soft Serve Cone",
+        "preco": 56.93,
+        "descricao": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "item": "Dutch Apple Pie",
+        "preco": 31.48,
+        "descricao": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "item": "HERSHEY\u00ae\u2019S Sundae Pie",
+        "preco": 56.11,
+        "descricao": "Para os amantes de bebidas geladas."
+    },
+    {
+        "item": "Pie made with TWIX\u00ae",
+        "preco": 45.18,
+        "descricao": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "item": "OREO\u00ae Cookie Cheesecake",
+        "preco": 37.97,
+        "descricao": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "item": "Soft Serve Cone",
+        "preco": 41.08,
+        "descricao": "Sabor aut\u00eantico com ingredientes frescos."
+    },
+    {
+        "item": "Soft Serve Cup",
+        "preco": 37.78,
+        "descricao": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "item": "HERSHEY\u00ae\u2019s Chocolate Sundae",
+        "preco": 36.83,
+        "descricao": "Para os amantes de bebidas geladas."
+    },
+    {
+        "item": "Caramel Sundae",
+        "preco": 51.66,
+        "descricao": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "item": "Chocolate Chip Cookies (each)",
+        "preco": 59.55,
+        "descricao": "A escolha perfeita para um dia especial."
+    },
+    {
+        "item": "CROISSAN\u2019WICH\u00ae Egg & Cheese",
+        "preco": 44.14,
+        "descricao": "Sinta o sabor da tradi\u00e7\u00e3o em cada mordida."
+    },
+    {
+        "item": "CROISSAN\u2019WICH\u00ae Sausage, Egg & Cheese",
+        "preco": 46.6,
+        "descricao": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "item": "CROISSAN\u2019WICH\u00ae Ham, Egg & Cheese",
+        "preco": 39.18,
+        "descricao": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "item": "CROISSAN\u2019WICH\u00ae Bacon, Egg & Cheese",
+        "preco": 43.55,
+        "descricao": "O acompanhamento perfeito para qualquer refei\u00e7\u00e3o."
+    },
+    {
+        "item": "Fully Loaded CROISSAN\u2019WICH\u00ae",
+        "preco": 45.53,
+        "descricao": "Um cl\u00e1ssico que nunca sai de moda."
+    },
+    {
+        "item": "Double CROISSAN\u2019WICH\u00ae with Sausage & Bacon",
+        "preco": 50.77,
+        "descricao": "Sabor aut\u00eantico com ingredientes frescos."
+    },
+    {
+        "item": "Double CROISSAN\u2019WICH\u00ae with Sausage",
+        "preco": 35.87,
+        "descricao": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "item": "Double CROISSAN\u2019WICH\u00ae with Ham & Sausage",
+        "preco": 39.77,
+        "descricao": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "item": "Fully Loaded Biscuit",
+        "preco": 36.94,
+        "descricao": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "item": "Ham, Egg, & Cheese Biscuit",
+        "preco": 45.0,
+        "descricao": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "item": "Sausage, Egg, & Cheese Biscuit",
+        "preco": 52.2,
+        "descricao": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "item": "Bacon, Egg & Cheese Biscuit",
+        "preco": 55.24,
+        "descricao": "Uma bebida gelada e revigorante."
+    },
+    {
+        "item": "Sausage Biscuit",
+        "preco": 55.52,
+        "descricao": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "item": "Breakfast Burrito Jr.",
+        "preco": 50.7,
+        "descricao": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "item": "EGG-NORMOUS BURRITO\u03a1",
+        "preco": 55.06,
+        "descricao": "Leve e saboroso, perfeito a qualquer hora."
+    },
+    {
+        "item": "BK\u2122 Ultimate Breakfast Platter",
+        "preco": 45.25,
+        "descricao": "Leve e saboroso, perfeito a qualquer hora."
+    },
+    {
+        "item": "NY Ultimate Platter (Regional menu item)",
+        "preco": 42.64,
+        "descricao": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "item": "Pancake and Sausage platter",
+        "preco": 40.68,
+        "descricao": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "item": "Hash Browns \u2013 small",
+        "preco": 56.6,
+        "descricao": "Uma bebida gelada e revigorante."
+    },
+    {
+        "item": "Hash Browns \u2013 medium",
+        "preco": 59.3,
+        "descricao": "Para os amantes de bebidas geladas."
+    },
+    {
+        "item": "Hash Browns \u2013 large",
+        "preco": 37.66,
+        "descricao": "Sabor aut\u00eantico com ingredientes frescos."
+    },
+    {
+        "item": "French Toast Sticks (3 piece)",
+        "preco": 37.09,
+        "descricao": "Um cl\u00e1ssico que nunca sai de moda."
+    },
+    {
+        "item": "French Toast Sticks (5 piece)",
+        "preco": 41.65,
+        "descricao": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "item": "American Cheese (slice)",
+        "preco": 47.06,
+        "descricao": "Para os amantes de bebidas geladas."
+    },
+    {
+        "item": "Ketchup (Packet)",
+        "preco": 44.96,
+        "descricao": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "item": "Mayonnaise (Packet)",
+        "preco": 59.52,
+        "descricao": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "item": "Strawberry or Grape Jam (packet)",
+        "preco": 48.87,
+        "descricao": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "item": "Breakfast Syrup (1 oz)",
+        "preco": 47.62,
+        "descricao": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "item": "Barbecue Dipping Sauce (1 oz)",
+        "preco": 58.11,
+        "descricao": "Para os amantes de comida caseira."
+    },
+    {
+        "item": "Ranch Dipping Sauce (1 oz)",
+        "preco": 33.71,
+        "descricao": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "item": "Buffalo Dipping Sauce (1 oz)",
+        "preco": 49.0,
+        "descricao": "Para os amantes de bebidas geladas."
+    },
+    {
+        "item": "Zesty Onion Ring Dipping Sauce (1 oz)",
+        "preco": 30.3,
+        "descricao": "Sinta o sabor da tradi\u00e7\u00e3o em cada mordida."
+    },
+    {
+        "item": "Honey Mustard Dipping Sauce (1oz)",
+        "preco": 48.25,
+        "descricao": "Leve e delicioso, \u00f3timo para compartilhar."
+    },
+    {
+        "item": "Fat FREE Milk (8 fl oz)",
+        "preco": 40.43,
+        "descricao": "Perfeito para quem gosta de sabores picantes."
+    },
+    {
+        "item": "1% Low Fat Chocolate Milk (8 fl oz)",
+        "preco": 37.44,
+        "descricao": "Uma deliciosa refei\u00e7\u00e3o para toda a fam\u00edlia."
+    },
+    {
+        "item": "Smoothie: Strawberry Banana 16 fl oz",
+        "preco": 53.0,
+        "descricao": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "item": "Oreo\u00ae Shake",
+        "preco": 54.79,
+        "descricao": "Sabor aut\u00eantico que aquece o cora\u00e7\u00e3o."
+    },
+    {
+        "item": "Chocolate Oreo\u00ae Shake",
+        "preco": 42.83,
+        "descricao": "A escolha perfeita para um dia especial."
+    },
+    {
+        "item": "Vanilla Milk Shake",
+        "preco": 55.69,
+        "descricao": "Uma bebida irresist\u00edvel e refrescante."
+    },
+    {
+        "item": "HERSHEY\u00ae\u2019S Chocolate Milk Shake",
+        "preco": 56.01,
+        "descricao": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "item": "Strawberry Milk Shake",
+        "preco": 31.42,
+        "descricao": "Sabor ex\u00f3tico que voc\u00ea vai adorar."
+    },
+    {
+        "item": "Coca Cola classic\u00ae\u2021",
+        "preco": 52.19,
+        "descricao": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "item": "16 fl oz",
+        "preco": 31.58,
+        "descricao": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "item": "20 fl oz",
+        "preco": 56.38,
+        "descricao": "Uma bebida gelada e revigorante."
+    },
+    {
+        "item": "29 fl oz",
+        "preco": 47.65,
+        "descricao": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "item": "38 fl oz",
+        "preco": 49.65,
+        "descricao": "Uma mistura de do\u00e7ura e croc\u00e2ncia."
+    },
+    {
+        "item": "Diet Coke\u00ae\u2021",
+        "preco": 42.13,
+        "descricao": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "item": "16 fl oz",
+        "preco": 33.23,
+        "descricao": "Leve e delicioso, \u00f3timo para compartilhar."
+    },
+    {
+        "item": "20 fl oz",
+        "preco": 59.23,
+        "descricao": "O acompanhamento perfeito para qualquer refei\u00e7\u00e3o."
+    },
+    {
+        "item": "29 fl oz",
+        "preco": 43.42,
+        "descricao": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "item": "38 fl oz",
+        "preco": 40.93,
+        "descricao": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "item": "Sprite\u00ae\u2021",
+        "preco": 41.49,
+        "descricao": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "item": "16 fl oz",
+        "preco": 51.81,
+        "descricao": "Uma bebida gelada e revigorante."
+    },
+    {
+        "item": "20 fl oz",
+        "preco": 40.71,
+        "descricao": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "item": "29 fl oz",
+        "preco": 46.95,
+        "descricao": "Perfeito para quem gosta de sabores picantes."
+    },
+    {
+        "item": "38 fl oz",
+        "preco": 37.81,
+        "descricao": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "item": "Dr. Pepper\u00ae\u2021",
+        "preco": 31.69,
+        "descricao": "A escolha perfeita para um dia especial."
+    },
+    {
+        "item": "16 fl oz",
+        "preco": 39.77,
+        "descricao": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "item": "20 fl oz",
+        "preco": 55.16,
+        "descricao": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "item": "29 fl oz",
+        "preco": 30.33,
+        "descricao": "Uma bebida gelada e revigorante."
+    },
+    {
+        "item": "38 fl oz",
+        "preco": 57.03,
+        "descricao": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "item": "Barq\u2019s\u00ae Root Beer\u2021",
+        "preco": 57.74,
+        "descricao": "Sabor ex\u00f3tico que voc\u00ea vai adorar."
+    },
+    {
+        "item": "16 fl oz",
+        "preco": 31.19,
+        "descricao": "Perfeito para quem gosta de sabores picantes."
+    },
+    {
+        "item": "20 fl oz",
+        "preco": 42.04,
+        "descricao": "Incrivelmente refrescante e saboroso."
+    },
+    {
+        "item": "29 fl oz",
+        "preco": 47.81,
+        "descricao": "Uma explos\u00e3o de sabores em um s\u00f3 prato."
+    },
+    {
+        "item": "38 fl oz",
+        "preco": 32.04,
+        "descricao": "Perfeito para quem gosta de sabores picantes."
+    },
+    {
+        "item": "Cherry Coke\u00ae\u2021",
+        "preco": 33.16,
+        "descricao": "Uma combina\u00e7\u00e3o perfeita de sabores e texturas."
+    },
+    {
+        "item": "16 fl oz",
+        "preco": 42.93,
+        "descricao": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "item": "20 fl oz",
+        "preco": 46.65,
+        "descricao": "Sinta o sabor da tradi\u00e7\u00e3o em cada mordida."
+    },
+    {
+        "item": "29 fl oz",
+        "preco": 59.34,
+        "descricao": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "item": "38 fl oz",
+        "preco": 32.42,
+        "descricao": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "item": "Fanta\u00ae Orange\u2021",
+        "preco": 49.86,
+        "descricao": "Para os amantes de bebidas geladas."
+    },
+    {
+        "item": "16 fl oz",
+        "preco": 45.21,
+        "descricao": "Uma op\u00e7\u00e3o refrescante e saud\u00e1vel."
+    },
+    {
+        "item": "20 fl oz",
+        "preco": 39.36,
+        "descricao": "Uma explos\u00e3o de sabores em um s\u00f3 prato."
+    },
+    {
+        "item": "29 fl oz",
+        "preco": 38.91,
+        "descricao": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "item": "38 fl oz",
+        "preco": 39.29,
+        "descricao": "Sabor aut\u00eantico com ingredientes frescos."
+    },
+    {
+        "item": "Hi-C\u00ae Fruit Punch\u2021",
+        "preco": 57.01,
+        "descricao": "Para os amantes de bebidas geladas."
+    },
+    {
+        "item": "16 fl oz",
+        "preco": 31.16,
+        "descricao": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "item": "20 fl oz",
+        "preco": 57.91,
+        "descricao": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "item": "29 fl oz",
+        "preco": 40.44,
+        "descricao": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "item": "38 fl oz",
+        "preco": 32.69,
+        "descricao": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "item": "MINUTE MAID\u00ae Light Lemonade",
+        "preco": 49.1,
+        "descricao": "A escolha perfeita para um dia especial."
+    },
+    {
+        "item": "16 fl oz",
+        "preco": 35.63,
+        "descricao": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "item": "20 fl oz",
+        "preco": 54.52,
+        "descricao": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "item": "29 fl oz",
+        "preco": 41.69,
+        "descricao": "Uma op\u00e7\u00e3o refrescante e saud\u00e1vel."
+    },
+    {
+        "item": "38 fl oz",
+        "preco": 32.38,
+        "descricao": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "item": "Sweet Tea",
+        "preco": 55.51,
+        "descricao": "Para os amantes de bebidas geladas."
+    },
+    {
+        "item": "20 fl oz",
+        "preco": 41.49,
+        "descricao": "Para os amantes de bebidas geladas."
+    },
+    {
+        "item": "29 fl oz",
+        "preco": 31.5,
+        "descricao": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "item": "40 fl oz",
+        "preco": 47.46,
+        "descricao": "Uma bebida gelada e revigorante."
+    },
+    {
+        "item": "Unsweetened Tea",
+        "preco": 49.42,
+        "descricao": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "item": "20 fl oz",
+        "preco": 56.6,
+        "descricao": "Uma op\u00e7\u00e3o saud\u00e1vel e equilibrada."
+    },
+    {
+        "item": "29 fl oz",
+        "preco": 37.24,
+        "descricao": "Leve e delicioso, \u00f3timo para compartilhar."
+    },
+    {
+        "item": "40 fl oz",
+        "preco": 44.78,
+        "descricao": "Uma experi\u00eancia refrescante e doce."
+    },
+    {
+        "item": "Capri Sun\u00ae 100% Apple Juice",
+        "preco": 58.63,
+        "descricao": "Sabor ex\u00f3tico que vai te surpreender."
+    },
+    {
+        "item": "Minute Maid\u00ae Orange Juice",
+        "preco": 35.59,
+        "descricao": "Molhos deliciosos para real\u00e7ar seus pratos."
+    },
+    {
+        "item": "Frozen Coke\u00ae \u2013 16 oz",
+        "preco": 48.52,
+        "descricao": "Para os amantes de bebidas geladas."
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Coffee- 12 fl oz",
+        "preco": 32.75,
+        "descricao": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Coffee- 16 fl oz",
+        "preco": 33.79,
+        "descricao": "Leve e delicioso, \u00f3timo para compartilhar."
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Coffee- 20 fl oz",
+        "preco": 42.31,
+        "descricao": "A escolha saud\u00e1vel para um dia agitado."
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Decaf Coffee- 12 fl oz",
+        "preco": 53.96,
+        "descricao": "Sabor caseiro que aquece a alma."
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Decaf Coffee- 16 fl oz",
+        "preco": 47.84,
+        "descricao": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Decaf Coffee- 20 fl oz",
+        "preco": 46.85,
+        "descricao": "Incrivelmente saboroso e gratificante."
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Iced Vanilla Coffee- 12 fl oz",
+        "preco": 45.69,
+        "descricao": "Para os amantes de caf\u00e9 e cappuccinos."
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Iced Vanilla Coffee- 16 fl oz",
+        "preco": 50.94,
+        "descricao": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Iced Vanilla Coffee- 20 fl oz",
+        "preco": 48.49,
+        "descricao": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Iced Mocha Coffee- 12 fl oz",
+        "preco": 30.2,
+        "descricao": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Iced Mocha Coffee- 16 fl oz",
+        "preco": 56.57,
+        "descricao": "Sinta o sabor do ver\u00e3o a cada gole."
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Iced Mocha Coffee- 20 fl oz",
+        "preco": 42.93,
+        "descricao": "Sabores aut\u00eanticos que aquecem o cora\u00e7\u00e3o."
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Mocha Frappe- 12 fl oz",
+        "preco": 32.66,
+        "descricao": "Uma explos\u00e3o de sabores em cada mordida."
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Mocha Frappe- 16 fl oz",
+        "preco": 31.28,
+        "descricao": "A escolha saud\u00e1vel para um dia agitado."
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Mocha Frappe- 20 fl oz",
+        "preco": 48.98,
+        "descricao": "Sabor aut\u00eantico e suculento."
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Caramel Frappe- 12 fl oz",
+        "preco": 42.77,
+        "descricao": "Uma op\u00e7\u00e3o deliciosa e acolhedora."
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Caramel Frappe- 16 fl oz",
+        "preco": 56.22,
+        "descricao": "Leve e delicioso, perfeito para compartilhar."
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Caramel Frappe- 20 fl oz",
+        "preco": 36.23,
+        "descricao": "Uma experi\u00eancia refrescante e doce."
+    }
+]
