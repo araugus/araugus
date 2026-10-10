@@ -21,6 +21,11 @@ env/
 .coverage
 htmlcov/
 
+# Generated model artifacts and experiment tracking
+artifacts/
+mlruns/
+mlartifacts/
+
 # Datasets are downloaded locally, never committed (see each project's README)
 data/
 *.csv

@@ -13,18 +13,23 @@ I build data products end-to-end — from exploratory analysis and feature engin
 | Area | Tools |
 | --- | --- |
 | Languages | Python, SQL |
-| Data & ML | pandas, NumPy, scikit-learn, PySpark (MLlib) |
+| Data & ML | pandas, NumPy, scikit-learn, LightGBM, PySpark (MLlib) |
+| Time series & causal | statsforecast, uplift modeling (meta-learners) |
+| Engineering | FastAPI, pytest, GitHub Actions |
 | Big Data | Apache Spark, Hadoop, Hive |
 | Databases | SQL Server, PostgreSQL |
 | Cloud | AWS |
-| APIs & Apps | FastAPI |
 
 ---
 
 ## Projects
 
-| Project | Description | Stack |
+Projects on public data, each with a README covering the business problem, approach, real results and limitations.
+
+| Project | What it shows | Stack |
 | --- | --- | --- |
+| [Brazilian Credit Default Forecasting](projects/bcb-macro-forecasting) | 1–12-month forecasts of Brazil's household default rate from Banco Central (SGS) data: leakage-safe rolling-origin backtest, baselines vs. ETS/ARIMA/LightGBM with macro drivers (−13.6% MAE vs. naive), and conformal prediction intervals. | statsforecast, LightGBM, pandas |
+| [Uplift Modeling for Marketing](projects/uplift-marketing-campaign) | Causal targeting on a 64k-customer randomized e-mail test: S/T/X-learners evaluated with Qini/AUUC, and a profit simulation that finds the best targeting depth (~4x the profit of e-mailing everyone). | LightGBM, scikit-learn, SciPy |
 | [Credit Card Fraud Detection](projects/credit-card-fraud-detection) | Exploratory analysis and preprocessing of a highly imbalanced dataset (0.17% fraud): robust scaling, stratified splitting, random undersampling and IQR-based outlier removal. | pandas, scikit-learn, seaborn |
 
 ## Studies
