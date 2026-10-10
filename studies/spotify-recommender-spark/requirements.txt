@@ -1,0 +1,9 @@
+pyspark
+findspark
+numpy
+scipy
+plotly
+matplotlib
+scikit-image
+spotipy
+jupyter

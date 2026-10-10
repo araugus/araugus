@@ -18,7 +18,7 @@ restaurante_japa.adicionar_no_cardapio(sushi)
 restaurante_japa.adicionar_no_cardapio(brownie)
 
 def main():
-    restaurante_japa.exibir_cardapio
+    restaurante_japa.exibir_cardapio()
 
 if __name__ == '__main__':
     main()

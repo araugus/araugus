@@ -1,26 +1,50 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Gustavo</h1>
-<h3 align="center">A Data Scientist looking for new challenges for develop my programming skills</h3>
+# Gustavo Araujo Santos
 
-- 🔭 I’m currently working on **Safra Bank**
+**Senior Data Science Analyst at Banco Safra** · Python · Machine Learning · Spark · SQL
 
-- 🌱 I’m currently learning **Machine learning and cloud computing**
+I build data products end-to-end — from exploratory analysis and feature engineering to machine learning models and the pipelines that put them into production. This repository is my public portfolio: hands-on projects and the study work that supports them.
 
-- 👯 I’m looking to collaborate on **Data science and Machine learning projects**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gustavo--araujo--santos-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-araujo-santos/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/araugus/araugus](https://github.com/araugus/araugus)
+---
 
-- 💬 Ask me about **Python, Machine Learning, Spark, SQL and etc.**
+## Tech stack
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/gustavo-araujo-santos/](https://www.linkedin.com/in/gustavo-araujo-santos/)
+| Area | Tools |
+| --- | --- |
+| Languages | Python, SQL |
+| Data & ML | pandas, NumPy, scikit-learn, PySpark (MLlib) |
+| Big Data | Apache Spark, Hadoop, Hive |
+| Databases | SQL Server, PostgreSQL |
+| Cloud | AWS |
+| APIs & Apps | FastAPI |
 
-- ⚡ Fun fact **I'm my free time I like to play some Valorant**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gustavo-araujo-santos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo-araujo-santos" height="30" width="40" /></a>
-</p>
+## Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+| Project | Description | Stack |
+| --- | --- | --- |
+| [Credit Card Fraud Detection](projects/credit-card-fraud-detection) | Exploratory analysis and preprocessing of a highly imbalanced dataset (0.17% fraud): robust scaling, stratified splitting, random undersampling and IQR-based outlier removal. | pandas, scikit-learn, seaborn |
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=araugus&show_icons=true&locale=en&layout=compact" alt="araugus" /></p>
+## Studies
+
+Coursework and exercises kept for reference.
+
+| Study | Topics | Stack |
+| --- | --- | --- |
+| [Spotify Music Recommender](studies/spotify-recommender-spark) | Content-based recommendation with PCA + K-Means clustering and Euclidean distance, enriched with the Spotify Web API. | PySpark, MLlib, Plotly, Spotipy |
+| [Movie Recommender](studies/movie-recommender) | Popularity- and rating-based recommendation heuristics on MovieLens (33M ratings). | pandas |
+| [Sabor Express](studies/sabor-express) | Object-oriented design (abstract classes, inheritance, properties) and a small REST API. | Python, FastAPI |
+
+---
+
+## Repository structure
+
+```
+.
+├── projects/   # Portfolio projects
+└── studies/    # Course work and study notebooks
+```
+
+Each folder has its own `README.md` with context, how to get the data and how to run it.
